@@ -1,0 +1,5 @@
+{
+  "name": "Karbin Driver - AI Assistant",
+  "description": "An intelligent driver assistant app that uses AI to help drivers diagnose car problems, receive repair guidance, and connect with nearby service providers for professional help.",
+  "requestFramePermissions": []
+}
