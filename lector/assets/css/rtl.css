@@ -1,0 +1,15 @@
+/*
+ * Lector Theme - RTL Specific Styles
+ */
+
+body {
+  unicode-bidi: embed;
+}
+
+/* Add any RTL-specific overrides here. For example: */
+/*
+.element {
+    margin-right: 0;
+    margin-left: 10px;
+}
+*/
