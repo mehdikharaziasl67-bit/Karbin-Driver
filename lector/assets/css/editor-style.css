@@ -1,0 +1,23 @@
+/*
+ * Lector Theme - Gutenberg Editor Styles
+ */
+
+/*
+ * This file is used to style the block editor to match the theme's frontend.
+ */
+
+body.editor-styles-wrapper {
+    direction: rtl;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* Make the editor content area wider */
+.wp-block {
+    max-width: 720px;
+}
+.wp-block[data-align="wide"] {
+    max-width: 1080px;
+}
+.wp-block[data-align="full"] {
+    max-width: none;
+}

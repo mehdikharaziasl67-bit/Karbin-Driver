@@ -1,0 +1,20 @@
+/*
+Theme Name: Lector
+Theme URI: https://jules.dev/lector
+Author: Jules
+Author URI: https://jules.dev
+Description: A professional WordPress theme for educational content hubs.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lector
+Tags: rtl-language-support, two-columns, left-sidebar, custom-menu, featured-images, post-formats, theme-options
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 7.4
+*/
+
+/*
+    This is the main stylesheet for the Lector theme.
+    The theme's CSS rules will be enqueued from the assets/css/ directory.
+*/
